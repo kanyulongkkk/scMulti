@@ -1,8 +1,7 @@
 
 # scMulti
 
-scMulti is a multitask transfer learning model for integrating paired, unpaired and mosaic single-cell multi-omics data. scMulti leverages hypergraph neural network to capature global graph-level gene and
-peak information, learns a low-dimensional embedding for each modality, devises a dual-attention aggregation mechanism to dynamically asses the significance of various modalities
+scMulti is a multitask transfer learning model for integrating paired, unpaired and mosaic single-cell multi-omics data. scMulti leverages hypergraph neural network to capature global graph-level gene and peak information, learns a low-dimensional embedding for each modality, devises a dual-attention aggregation mechanism to dynamically asses the significance of various modalities.
 
 ## Installation
 
